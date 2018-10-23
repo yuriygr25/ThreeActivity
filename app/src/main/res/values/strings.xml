@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Три активности</string>
+    <string name="two_title">Вторая активность</string>
+    <string name="third_title">Третья активность</string>
+</resources>
